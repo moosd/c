@@ -135,8 +135,9 @@ $ ./test.sh
 ## Packages
 Use a package manager? You've come to the right place.
 
-AUR: https://aur.archlinux.org/packages/c/<br>
-bpkg: `bpkg install ryanmjacobs/c`
+* AUR: https://aur.archlinux.org/packages/c/
+* bpkg: `bpkg install ryanmjacobs/c`
+* homebrew: `brew install c`
 
 ## License
 ```
